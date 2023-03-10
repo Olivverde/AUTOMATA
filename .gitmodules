@@ -1,3 +1,6 @@
 [submodule "LAB-A"]
 	path = LAB_A
 	url = https://github.com/Olivverde/LabA-AFN.git
+[submodule "LAB_B"]
+	path = LAB_B
+	url = https://github.com/Olivverde/LabB-AFD.git
