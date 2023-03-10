@@ -1,0 +1,3 @@
+[submodule "LAB-A"]
+	path = LAB-A
+	url = https://github.com/Olivverde/LabA-AFN.git
