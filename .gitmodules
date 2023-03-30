@@ -4,3 +4,6 @@
 [submodule "LAB_B"]
 	path = LAB_B
 	url = https://github.com/Olivverde/LabB-AFD.git
+[submodule "AUTOMATA"]
+	path = AUTOMATA
+	url = https://github.com/Olivverde/AUTOMATA.git
