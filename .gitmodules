@@ -7,3 +7,6 @@
 [submodule "AUTOMATA"]
 	path = AUTOMATA
 	url = https://github.com/Olivverde/AUTOMATA.git
+[submodule "LAB_C"]
+	path = LAB_C
+	url = https://github.com/Olivverde/AUTOMATA.git
